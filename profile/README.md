@@ -4,4 +4,4 @@
 
 ## Welcome to KAYKO 🙌
 
-At KAYKO, we are building a digital financial infrasture for small businesses and solopreneurs in the eastern and south africa to simplify their day-to-day operations, deliver remarkable customer experiences and foster their growth.
+At KAYKO, we are building a cutting-edge digital financial infrastucture for entrepreneurs and freelancers in the eastern and southern Africa. It simplifies their day-to-day operations, delivers remarkable customer experiences and fosters their business growth.
